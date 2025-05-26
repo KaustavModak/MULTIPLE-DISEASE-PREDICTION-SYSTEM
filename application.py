@@ -22,7 +22,7 @@ if(selected=="Home"):
     st.image("20250526_1738_Disease Prediction System_remix_01jw67tpgxfbt9gy7v8b6b10ag.png")
     '''
     ---
-    ### Use our machine learning models to predict diabetes, heart disease, and Parkinson’s from simple inputs.
+    ### Press the navigation bar to predict diabetes, heart disease, and Parkinson's from simple inputs using machine learning models.
     '''
 
 # Diabetes Prediction Page
