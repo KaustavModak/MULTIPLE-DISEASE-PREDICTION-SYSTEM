@@ -59,7 +59,7 @@ if(selected=="Diabetes Prediction"):
 
     diabetes_diagnosis=''
     if st.button('Predict'):
-        if not all([Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age]): # all the fields are required to be field
+        if not all([Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age]): # all the fields are required to be field
             st.warning("Please fill all the fields")
         else:
             input_scaled=scaler_diabetes.transform([[Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age]])
