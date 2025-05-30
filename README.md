@@ -64,7 +64,6 @@ Analyzes voice measurements including:
 ├── standardized_diabetes.pkl        # Feature scaler for diabetes data
 ├── standardized_heart.pkl           # Feature scaler for heart disease data
 ├── standardized_parkinsons.pkl      # Feature scaler for Parkinson's data
-└── 20250526_1738_Disease_Prediction_System_remix_01jw67tpgxfbt9gy7v8b6b10ag.png
 ```
 
 ---
@@ -133,7 +132,7 @@ Each prediction page includes comprehensive test cases:
 ## 🔧 Technical Details
 
 ### Machine Learning Models
-- **Algorithms**: The system uses trained classification models (specific algorithms may include SVM, Random Forest, or Neural Networks)
+- **Algorithms**: The system uses trained classification models
 - **Feature Scaling**: All inputs are standardized using pre-fitted scalers for optimal model performance
 - **Model Format**: Models are serialized using Python's pickle module for efficient loading
 
