@@ -260,19 +260,19 @@ if(selected=="Heart Disease Prediction"):
     ### Likely No Heart Disease (Healthy)
 
     ```text
-    Age: 45  
-    Sex: Female
-    ChestPainType: Atypical Angina
-    RestingBP: 120  
-    Cholesterol: 210  
-    FastingBS: 118  
-    RestingECG: Normal
-    MaxHR: 165  
-    Exang: No
-    Oldpeak: 0.5  
-    ST_Slope: Upsloping
-    Ca: 0  
-    Thal: Fixed Defect
+    Age: 63  
+    Sex: Male 
+    ChestPainType: Asymptomatic  
+    RestingBP: 150  
+    Cholesterol: 280  
+    FastingBS: 123  
+    RestingECG: Left Ventricular Hypertrophy  
+    MaxHR: 120  
+    Exang: Yes  
+    Oldpeak: 3.0  
+    ST_Slope: Downsloping
+    Ca: 2  
+    Thal: Reversible Defect
 
     ```
     ---
@@ -299,19 +299,20 @@ if(selected=="Heart Disease Prediction"):
     ### Likely Has Heart Disease
 
     ```text
-    Age: 63  
-    Sex: Male 
-    ChestPainType: Asymptomatic  
-    RestingBP: 150  
-    Cholesterol: 280  
-    FastingBS: 1  
-    RestingECG: Left Ventricular Hypertrophy  
-    MaxHR: 120  
-    Exang: Yes  
-    Oldpeak: 3.0  
-    ST_Slope: Downsloping
-    Ca: 2  
-    Thal: Reversible Defect
+    Age: 45  
+    Sex: Female
+    ChestPainType: Atypical Angina
+    RestingBP: 120  
+    Cholesterol: 210  
+    FastingBS: 118  
+    RestingECG: Normal
+    MaxHR: 165  
+    Exang: No
+    Oldpeak: 0.5  
+    ST_Slope: Upsloping
+    Ca: 0  
+    Thal: Fixed Defect
+    
 
     ```
     '''
