@@ -409,28 +409,28 @@ if(selected=="Parkinson's Disease Prediction"):
     ### Likely Healthy (No Parkinson’s)
 
     ```text
-    Average fundamental frequency (pitch) of the voice: 160.0  
-    Maximum fundamental frequency: 180.0  
-    Minimum fundamental frequency: 145.0  
-    Average deviation in frequency (%): 0.002  
-    Absolute jitter (in seconds): 0.00002  
-    Relative Average Perturbation: 0.001  
-    Five-point Period Perturbation Quotient: 0.0015  
-    Derivative of RAP: 0.003  
-    Average shimmer (amplitude variation as percentage): 0.02  
-    Shimmer in decibels: 0.2  
-    3-point Amplitude Perturbation Quotient: 0.01  
-    5-point Amplitude Perturbation Quotient: 0.013  
-    Average Amplitude Perturbation Quotient: 0.014  
-    Derivative of APQ3: 0.03  
-    Noise-to-Harmonics Ratio: 0.01  
-    Harmonics-to-Noise Ratio: 22.0  
-    Recurrence Period Density Entropy: 0.45  
-    Detrended Fluctuation Analysis: 0.6  
-    1st dimension of signal spread: -4.5  
-    2nd dimension of signal spread: 0.2  
-    Correlation dimension: 2.1  
-    Pitch Period Entropy: 0.1
+    Average fundamental frequency (pitch) of the voice: 209.14400  
+    Maximum fundamental frequency: 237.49400
+    Minimum fundamental frequency: 109.37900
+    Average deviation in frequency (%): 0.00282
+    Absolute jitter (in seconds): 0.00001
+    Relative Average Perturbation: 0.00147 
+    Five-point Period Perturbation Quotient: 0.0152
+    Derivative of RAP: 0.00442
+    Average shimmer (amplitude variation as percentage): 0.01861
+    Shimmer in decibels: 0.17000
+    3-point Amplitude Perturbation Quotient: 0.00975
+    5-point Amplitude Perturbation Quotient: 0.01258
+    Average Amplitude Perturbation Quotient: 0.01382
+    Derivative of APQ3: 0.02925  
+    Noise-to-Harmonics Ratio: 0.00871  
+    Harmonics-to-Noise Ratio: 25.554
+    Recurrence Period Density Entropy: 0.341788  
+    Detrended Fluctuation Analysis: 0.678874  
+    1st dimension of signal spread: -7.040508  
+    2nd dimension of signal spread: 0.066994
+    Correlation dimension: 2.460791
+    Pitch Period Entropy: 0.101516
 
 
     ```
@@ -468,28 +468,28 @@ if(selected=="Parkinson's Disease Prediction"):
     ### Likely Has Parkinson’s Disease
 
     ```text
-    Average fundamental frequency (pitch) of the voice: 115.0  
-    Maximum fundamental frequency: 150.0  
-    Minimum fundamental frequency: 85.0  
-    Average deviation in frequency (%): 0.0075  
-    Absolute jitter (in seconds): 0.00007  
-    Relative Average Perturbation: 0.004  
-    Five-point Period Perturbation Quotient: 0.0045  
-    Derivative of RAP: 0.012  
-    Average shimmer (amplitude variation as percentage): 0.04  
-    Shimmer in decibels: 0.45  
-    3-point Amplitude Perturbation Quotient: 0.02  
-    5-point Amplitude Perturbation Quotient: 0.025  
-    Average Amplitude Perturbation Quotient: 0.028  
-    Derivative of APQ3: 0.06  
-    Noise-to-Harmonics Ratio: 0.045  
-    Harmonics-to-Noise Ratio: 12.0  
-    Recurrence Period Density Entropy: 0.75  
-    Detrended Fluctuation Analysis: 0.72  
-    1st dimension of signal spread: -6.5  
-    2nd dimension of signal spread: 0.4  
-    Correlation dimension: 3.3  
-    Pitch Period Entropy: 0.45
+    Average fundamental frequency (pitch) of the voice: 160.0  
+    Maximum fundamental frequency: 180.0  
+    Minimum fundamental frequency: 145.0  
+    Average deviation in frequency (%): 0.002  
+    Absolute jitter (in seconds): 0.00002  
+    Relative Average Perturbation: 0.001  
+    Five-point Period Perturbation Quotient: 0.0015  
+    Derivative of RAP: 0.003  
+    Average shimmer (amplitude variation as percentage): 0.02  
+    Shimmer in decibels: 0.2  
+    3-point Amplitude Perturbation Quotient: 0.01  
+    5-point Amplitude Perturbation Quotient: 0.013  
+    Average Amplitude Perturbation Quotient: 0.014  
+    Derivative of APQ3: 0.03  
+    Noise-to-Harmonics Ratio: 0.01  
+    Harmonics-to-Noise Ratio: 22.0  
+    Recurrence Period Density Entropy: 0.45  
+    Detrended Fluctuation Analysis: 0.6  
+    1st dimension of signal spread: -4.5  
+    2nd dimension of signal spread: 0.2  
+    Correlation dimension: 2.1  
+    Pitch Period Entropy: 0.1
 
 
     ```
